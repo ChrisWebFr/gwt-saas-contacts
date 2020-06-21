@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/43/logos-contacts/src/com/logos/contacts/client/view/widget
+END
+FlexibleCustomWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/42/logos-contacts/src/com/logos/contacts/client/view/widget/FlexibleCustomWidget.java
+END
+QuestionDialogBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/24/logos-contacts/src/com/logos/contacts/client/view/widget/QuestionDialogBox.java
+END
+CustomPushButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/31/logos-contacts/src/com/logos/contacts/client/view/widget/CustomPushButton.java
+END
+CustomTextBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/37/logos-contacts/src/com/logos/contacts/client/view/widget/CustomTextBox.java
+END
+BoxAndLabelWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/42/logos-contacts/src/com/logos/contacts/client/view/widget/BoxAndLabelWidget.java
+END
+AbstractCustomTextBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/37/logos-contacts/src/com/logos/contacts/client/view/widget/AbstractCustomTextBox.java
+END
+ExtendedDialogBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/27/logos-contacts/src/com/logos/contacts/client/view/widget/ExtendedDialogBox.java
+END
+WaitingDialogBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/24/logos-contacts/src/com/logos/contacts/client/view/widget/WaitingDialogBox.java
+END
+ContactDetailsFlexTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/43/logos-contacts/src/com/logos/contacts/client/view/widget/ContactDetailsFlexTable.java
+END
+EmailTextBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/37/logos-contacts/src/com/logos/contacts/client/view/widget/EmailTextBox.java
+END
